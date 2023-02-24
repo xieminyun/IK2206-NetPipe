@@ -1,0 +1,6 @@
+Using FileDigest to compute hash for "testinput.txt"
+
+Expected this:
+    8cz1fPIfWSgRKjZg3cEQ7LTcq6SZLRgLGRy/3JBG55o=
+Found this:
+    spqYNYFYnslkBbtblz2xmXIweT8ZrV6imRxwx7yPm0o=
