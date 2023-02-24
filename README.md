@@ -3,7 +3,7 @@ This is the project from KTH IK2206. The goal is to add implement simple TLS.
 
 To test the programme, run  NetPipeServer/NetPipeServer.jar and run the corresponding NetPipeClient.jar/NetPipeClient.
 
-Use command line argument or IDEA edit configurations for the following arguments:
+Use command line argument or IDEA edit configurations with the following arguments:
 
 Server:
 
