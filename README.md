@@ -1,8 +1,20 @@
-# IK2215-GUDP
+# IK2206-NetPipe
 This is the project from KTH IK2206. The goal is to add implement simple TLS.
 
-Use command line argument or IDEA edit configurations to add the file which you want to transfer.
+To test the programme, run  NetPipeServer/NetPipeServer.jar and run the corresponding NetPipeClient.jar/NetPipeClient.
 
-To test the programme, run  VSSend/Receiver.java and run the corresponding sender/receiver_no/with_loss.jar.
+Use command line argument or IDEA edit configurations for the following arguments:
+
+Server:
+
+```
+--port=2206 --usercert=src/server.pem --cacert=src/ca.pem --key=src/server-private.der
+```
+
+Client
+
+```
+--host=localhost  --port=2206  --usercert=src/client.pem --cacert=src/ca.pem --key=src/client-private.der
+```
 
 :)
